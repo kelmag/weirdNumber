@@ -15,8 +15,19 @@
   margin: 0;
 }
 
-.result-box{
+.text{
+  text-align: left;
+  color:rgb(77, 158, 77);
+  font-size: 10pt;
+  bottom: 0;
+  font-style: italic;
+}
 
+.right-note{
+  text-align: right;
+  text-decoration: none;
+  color:darkgray;
+  display: flex;
 }
 
 
