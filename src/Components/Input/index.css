@@ -1,0 +1,12 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px !important;
+    text-align: center;
+    font-size: 44pt;
+    font-weight: 900;
+    color: #00A23B;
+  }
+  .input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: rgba(0,162, 59, 0.5)
+  }

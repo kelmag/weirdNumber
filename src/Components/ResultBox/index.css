@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.sub-container{
+  display: flex;
+  flex: 1;
+  flex-direction: column
+}
+.small-text{
+  color: rgba(0,140, 59, .9);
+  font-size: 8pt;
+}
+.big-text{
+  font-size:56pt;
+  font-weight: 900;
+}
+.color-true{
+  color:  rgb(0,140, 59 );
+}
+.color-false{
+  color: rgb(193, 55, 53)
+}

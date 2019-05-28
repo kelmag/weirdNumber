@@ -1,6 +1,24 @@
 .App {
   text-align: center;
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
 }
+
+.title{
+  color: #00A23B;
+  background-color: rgba(0,162, 59, 0.1);
+  padding-top:10px;
+  padding-bottom:10px;
+  margin: 0;
+}
+
+.result-box{
+
+}
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
